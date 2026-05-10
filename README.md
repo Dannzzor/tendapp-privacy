@@ -1,0 +1,1 @@
+# tendapp-privacy
