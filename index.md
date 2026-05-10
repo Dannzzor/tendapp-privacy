@@ -43,4 +43,4 @@ Tend Premium is handled entirely through Apple's App Store. We do not process or
 
 ## Contact
 
-If you have questions about this policy, reach out at ddavenport420@gmail.com.
+If you have questions about this policy, reach out at tend.app.support.us@gmail.com.
